@@ -53,7 +53,7 @@
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="36" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" alt="AWS" />
 </p>
 
 ### ⚙️ DevOps & Observability
