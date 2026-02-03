@@ -78,8 +78,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight" height="165" />
 </p>
 
 ---
