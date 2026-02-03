@@ -78,7 +78,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight" height="165" alt="GitHub Streak" />
 </p>
 
