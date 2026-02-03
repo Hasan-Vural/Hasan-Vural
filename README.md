@@ -49,16 +49,15 @@
 
 ### ☁️ Cloud Technologies
 <p align="left">
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="36" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="Firebase" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="36" alt="Supabase" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="36" alt="Google Cloud" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="36" alt="Azure" />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" />
 </p>
 
 ### ⚙️ DevOps & Observability
 <p align="left">
-  <img src="https://cdn.simpleicons.org/sonarcloud/F3702A" height="36" alt="SonarCloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform" />
@@ -66,6 +65,7 @@
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="36" alt="Prometheus" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="36" alt="Grafana" />
   <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="36" alt="Elasticsearch" />
+  <img src="https://cdn.simpleicons.org/sonarcloud/F3702A" height="36" alt="SonarCloud" />
 </p>
 
 ### 📱 Mobile Development
@@ -78,12 +78,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight" height="165" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight" height="165" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Vural&layout=compact&theme=tokyonight" height="165" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Vural&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -92,9 +92,9 @@
 
 <table>
   <tr>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <a href="https://myedura.com/presentation" target="_blank">
-        <img src="./public/logos/Edura-logo-gradient.png" alt="Edura" height="80" />
+        <img src="./public/logos/Edura-logo-gradient.png" alt="Edura" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
       <br />
       <a href="https://myedura.com/presentation" target="_blank">
@@ -103,9 +103,9 @@
       <br />
       <sub>Edura is a comprehensive course tracking and management system developed for educational institutions.</sub>
     </td>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/CachePulse/cachepulse" target="_blank">
-        <img src="./public/logos/CachePulse-logo-gradient.png" alt="CachePulse" height="80" />
+        <img src="./public/logos/CachePulse-logo-gradient.png" alt="CachePulse" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
       <br />
       <a href="https://github.com/CachePulse/cachepulse" target="_blank">
@@ -114,9 +114,11 @@
       <br />
       <sub>CachePulse is a memory hierarchy simulator designed to analyze access latency and hit ratios across cache, RAM, and disk layers.</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33.33%" align="center">
       <a href="https://github.com/Marmara-Biltek/marmara-biltek" target="_blank">
-        <img src="./public/logos/Biltek-logo-60x60.png" alt="Marmara Biltek" height="80" />
+        <img src="./public/logos/Biltek-logo-60x60.png" alt="Marmara Biltek" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
       <br />
       <a href="https://github.com/Marmara-Biltek/marmara-biltek" target="_blank">
@@ -125,11 +127,9 @@
       <br />
       <sub>Official website project for Marmara Science and Technology Club.</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="33.33%" align="center">
       <a href="https://github.com/Servida/servida-web" target="_blank">
-        <img src="./public/logos/Servida-logo-v1.png" alt="Servida" height="80" />
+        <img src="./public/logos/Servida-logo-v1.png" alt="Servida" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
       <br />
       <a href="https://github.com/Servida/servida-web" target="_blank">
@@ -138,9 +138,9 @@
       <br />
       <sub>Service Management System</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="33.33%" align="center">
       <a href="https://github.com/CariStok/caristok-web" target="_blank">
-        <img src="./public/logos/CariStok-logo-v6.png" alt="CariStok" height="80" />
+        <img src="./public/logos/CariStok-logo-v6.png" alt="CariStok" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
       <br />
       <a href="https://github.com/CariStok/caristok-web" target="_blank">
