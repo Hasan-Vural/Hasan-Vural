@@ -1,16 +1,131 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=F7A50A&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Hasan+Vural+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Web+%7C+Cloud+%7C+DevOps+%7C+Flutter" alt="Typing SVG" />
+</p>
 
-<!--
-**Hasan-Vural/Hasan-Vural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://YOUR_WEBSITE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Hasan-Vural" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+- **Focus**: Web, Cloud, DevOps and Mobile (Flutter)
+- **Things I enjoy**: Modern frontend architectures, scalable backend design, observability, CI/CD
+
+---
+
+🧰 Tech Stack (Categorized)
+
+🌐 Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+</p>
+
+🗄️ Database Technologies (DB)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite" />
+</p>
+
+☁️ Cloud Technologies
+<p align="left">
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="36" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="36" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="36" alt="Google Cloud" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="36" alt="Azure" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" alt="AWS" />
+</p>
+
+⚙️ DevOps & Observability
+<p align="left">
+  <img src="https://cdn.simpleicons.org/sonarcloud/F3702A" height="36" alt="SonarCloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="36" alt="Ansible" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="36" alt="Prometheus" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="36" alt="Grafana" />
+  <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="36" alt="Elasticsearch" />
+</p>
+
+#📱 Mobile Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" />
+</p>
+
+---
+
+📊 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight" height="165" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight" height="165" alt="streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Vural&layout=compact&theme=tokyonight" height="165" alt="top langs" />
+</p>
+
+---
+
+⭐ Featured Projects
+
+> You can replace the badges below with your own logos. For now, they are placeholders.
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Hasan-Vural/EDURA_REPO" target="_blank">
+        <img src="https://img.shields.io/badge/Edura%20Academy-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <sub>Short description for your EdTech / academy project.</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Hasan-Vural/CACHPEULSE_REPO" target="_blank">
+        <img src="https://img.shields.io/badge/Cachpeulse-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <sub>Short description for your second featured project.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+🖼️ How to Add Edura / Cachpeulse Logos (Quick)
+
+1) Put the logo file into the repo, for example: `assets/edura.png`.  
+2) Use this snippet in your README:
+
+```html
+<img src="./assets/edura.png" alt="Edura Academy" height="28" />
+```
+
+3) Wrap the logo with a link if you want:
+
+```html
+<a href="https://github.com/Hasan-Vural/EDURA_REPO" target="_blank">
+  <img src="./assets/edura.png" alt="Edura Academy" height="28" />
+</a>
+```
