@@ -6,13 +6,13 @@
   <a href="https://YOUR_WEBSITE_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/hasan-vural-b71a14220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Hasan-Vural" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:hasanvuralwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
