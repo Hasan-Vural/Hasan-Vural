@@ -53,7 +53,7 @@
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="36" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" />
 </p>
 
 ### ⚙️ DevOps & Observability
@@ -65,7 +65,7 @@
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="36" alt="Prometheus" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="36" alt="Grafana" />
   <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="36" alt="Elasticsearch" />
-  <img src="https://cdn.simpleicons.org/sonarcloud/F3702A" height="36" alt="SonarCloud" />
+  <img src="https://static.cdnlogo.com/logos/s/13/sonarcloud.svg" height="36" alt="SonarCloud" />
 </p>
 
 ### 📱 Mobile Development
@@ -80,10 +80,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Vural&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -116,7 +112,7 @@
     </td>
   </tr>
   <tr>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/Marmara-Biltek/marmara-biltek" target="_blank">
         <img src="./public/logos/Biltek-logo-60x60.png" alt="Marmara Biltek" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
@@ -127,7 +123,7 @@
       <br />
       <sub>Official website project for Marmara Science and Technology Club.</sub>
     </td>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/Servida/servida-web" target="_blank">
         <img src="./public/logos/Servida-logo-v1.png" alt="Servida" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
@@ -138,7 +134,9 @@
       <br />
       <sub>Service Management System</sub>
     </td>
-    <td width="33.33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center" colspan="2">
       <a href="https://github.com/CariStok/caristok-web" target="_blank">
         <img src="./public/logos/CariStok-logo-v6.png" alt="CariStok" height="80" style="border-radius: 50%; object-fit: cover;" />
       </a>
