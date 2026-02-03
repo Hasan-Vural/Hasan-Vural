@@ -19,16 +19,16 @@
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 - **Focus**: Web, Cloud, DevOps and Mobile (Flutter)
 - **Things I enjoy**: Modern frontend architectures, scalable backend design, observability, CI/CD
 
 ---
 
-🧰 Tech Stack (Categorized)
+## 🧰 Tech Stack (Categorized)
 
-🌐 Web
+### 🌐 Web
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS" />
@@ -40,14 +40,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
 </p>
 
-🗄️ Database Technologies (DB)
+### 🗄️ Database Technologies (DB)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite" />
 </p>
 
-☁️ Cloud Technologies
+### ☁️ Cloud Technologies
 <p align="left">
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="36" alt="Firebase" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="36" alt="Supabase" />
@@ -56,7 +56,7 @@
   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" alt="AWS" />
 </p>
 
-⚙️ DevOps & Observability
+### ⚙️ DevOps & Observability
 <p align="left">
   <img src="https://cdn.simpleicons.org/sonarcloud/F3702A" height="36" alt="SonarCloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
@@ -68,64 +68,86 @@
   <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="36" alt="Elasticsearch" />
 </p>
 
-#📱 Mobile Development
+### 📱 Mobile Development
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" />
 </p>
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Vural&show_icons=true&hide_title=true&theme=tokyonight" height="165" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Vural&theme=tokyonight" height="165" alt="streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Vural&layout=compact&theme=tokyonight" height="165" alt="top langs" />
 </p>
 
 ---
 
-⭐ Featured Projects
-
-> You can replace the badges below with your own logos. For now, they are placeholders.
+## ⭐ Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Hasan-Vural/EDURA_REPO" target="_blank">
-        <img src="https://img.shields.io/badge/Edura%20Academy-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <td width="33.33%" align="center">
+      <a href="https://myedura.com/presentation" target="_blank">
+        <img src="./public/logos/Edura-logo-gradient.png" alt="Edura" height="80" />
       </a>
       <br />
-      <sub>Short description for your EdTech / academy project.</sub>
+      <a href="https://myedura.com/presentation" target="_blank">
+        <strong>Edura</strong>
+      </a>
+      <br />
+      <sub>Edura is a comprehensive course tracking and management system developed for educational institutions.</sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Hasan-Vural/CACHPEULSE_REPO" target="_blank">
-        <img src="https://img.shields.io/badge/Cachpeulse-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <td width="33.33%" align="center">
+      <a href="https://github.com/CachePulse/cachepulse" target="_blank">
+        <img src="./public/logos/CachePulse-logo-gradient.png" alt="CachePulse" height="80" />
       </a>
       <br />
-      <sub>Short description for your second featured project.</sub>
+      <a href="https://github.com/CachePulse/cachepulse" target="_blank">
+        <strong>CachePulse</strong>
+      </a>
+      <br />
+      <sub>CachePulse is a memory hierarchy simulator designed to analyze access latency and hit ratios across cache, RAM, and disk layers.</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <a href="https://github.com/Marmara-Biltek/marmara-biltek" target="_blank">
+        <img src="./public/logos/Biltek-logo-60x60.png" alt="Marmara Biltek" height="80" />
+      </a>
+      <br />
+      <a href="https://github.com/Marmara-Biltek/marmara-biltek" target="_blank">
+        <strong>Marmara-Biltek</strong>
+      </a>
+      <br />
+      <sub>Official website project for Marmara Science and Technology Club.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Servida/servida-web" target="_blank">
+        <img src="./public/logos/Servida-logo-v1.png" alt="Servida" height="80" />
+      </a>
+      <br />
+      <a href="https://github.com/Servida/servida-web" target="_blank">
+        <strong>Servida</strong>
+      </a>
+      <br />
+      <sub>Service Management System</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CariStok/caristok-web" target="_blank">
+        <img src="./public/logos/CariStok-logo-v6.png" alt="CariStok" height="80" />
+      </a>
+      <br />
+      <a href="https://github.com/CariStok/caristok-web" target="_blank">
+        <strong>CariStok</strong>
+      </a>
+      <br />
+      <sub>Accounts Receivable and Inventory Management System</sub>
     </td>
   </tr>
 </table>
-
----
-
-🖼️ How to Add Edura / Cachpeulse Logos (Quick)
-
-1) Put the logo file into the repo, for example: `assets/edura.png`.  
-2) Use this snippet in your README:
-
-```html
-<img src="./assets/edura.png" alt="Edura Academy" height="28" />
-```
-
-3) Wrap the logo with a link if you want:
-
-```html
-<a href="https://github.com/Hasan-Vural/EDURA_REPO" target="_blank">
-  <img src="./assets/edura.png" alt="Edura Academy" height="28" />
-</a>
-```
